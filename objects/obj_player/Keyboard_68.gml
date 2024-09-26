@@ -1,4 +1,3 @@
-/// @description move room
-// You can write your code in this editor
+/// @description move right
 
 hspeed = 5;

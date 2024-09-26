@@ -18,6 +18,8 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_block","order":1,"path":"objects/obj_block/obj_block.yy",},
+    {"name":"obj_coin","order":2,"path":"objects/obj_coin/obj_coin.yy",},
     {"name":"spr_block","order":1,"path":"sprites/spr_block/spr_block.yy",},
+    {"name":"spr_coin","order":2,"path":"sprites/spr_coin/spr_coin.yy",},
   ],
 }
